@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-business-card/static/css/main.35d754cf.css",
+    "main.css": "/react-business-card/static/css/main.5a8fbb01.css",
     "main.js": "/react-business-card/static/js/main.f73a6c42.js",
     "static/media/photo.jpg": "/react-business-card/static/media/photo.4d9a7ae689af7e094393.jpg",
     "static/media/insta-ico.svg": "/react-business-card/static/media/insta-ico.585b0575539d1f7a07af.svg",
@@ -10,11 +10,11 @@
     "static/media/fb-ico.svg": "/react-business-card/static/media/fb-ico.00c353d38f22d18d3ff0.svg",
     "index.html": "/react-business-card/index.html",
     "static/media/mail-ico.svg": "/react-business-card/static/media/mail-ico.341d1e767b26e2540702.svg",
-    "main.35d754cf.css.map": "/react-business-card/static/css/main.35d754cf.css.map",
+    "main.5a8fbb01.css.map": "/react-business-card/static/css/main.5a8fbb01.css.map",
     "main.f73a6c42.js.map": "/react-business-card/static/js/main.f73a6c42.js.map"
   },
   "entrypoints": [
-    "static/css/main.35d754cf.css",
+    "static/css/main.5a8fbb01.css",
     "static/js/main.f73a6c42.js"
   ]
 }
